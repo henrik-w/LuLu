@@ -1,6 +1,11 @@
 # LuLu
 
 LuLu is the free macOS firewall:
+
+This fork of this project essentially contains changes to the UI.\
+The horrible design is really only something for individualists who are not Mac (or macOS) lovers (after all). So here the UI becomes mac-typical again and better adheres to Apple's design specifications.\
+Also, the UI is completely changed to use constraints and some design bugs are cleaned up as well.\
+Furthermore, the translation for the German language is maintained here.
 <p align="center"><img src="https://objective-see.com/images/LL/lulu.png"></p>
 
 **Documentation:** \
